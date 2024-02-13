@@ -34,3 +34,10 @@ This code defines a simple To-Do List application using the Tkinter library in P
    - The Tkinter main loop (`root.mainloop()`) is used to run the application continuously.
 
 Overall, this code creates a functional To-Do List application with a simple and visually appealing interface.
+
+
+
+Output:
+   
+![Screenshot 2024-02-13 233413](https://github.com/Akshayhs2003/To_Do_List/assets/135248641/213a698c-5a38-4d6e-bfd3-a5087f879531)
+
